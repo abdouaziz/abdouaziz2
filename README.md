@@ -41,14 +41,12 @@
  
  
 
-<details>
+ 
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="abdouaziiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdouaziz&show_icons=true&hide_border=true" />
 
-
-</details>
-
+ 
  
 [twitter]: https://twitter.com/abdouaziiz
 [instagram]: https://instagram.com/abdouaziiz
