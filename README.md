@@ -44,7 +44,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="abdouaziiz's GitHub Stats" src="https://github-readme-stats.abdouaziiz.vercel.app/api?username=abdouaziiz&show_icons=true&hide_border=true" />
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdouaziiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
