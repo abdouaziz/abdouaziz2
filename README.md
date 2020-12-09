@@ -3,7 +3,7 @@
  
 [![Twitter Follow](https://img.shields.io/twitter/follow/abdouaziiz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabdouaziiz&screen_name=abdouaziiz)
 
-## I'm a  Developer and Machine / Deep learning Engineer !!
+## I'm a Machine Learning Engineer Researcher !
 
 - 🔭 I m certified in Machine Learning and Deep Learning !
 - 🌱 I’m currently learning Maths , Machine/Deep Learning  🤣
