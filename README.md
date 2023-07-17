@@ -1,15 +1,9 @@
-### Hi there  👋
+### Hi there , Abdou Aziz DIOP  👋
 
-My name is , I'm Abdou Aziz  Diop , I'm a NLP Reseacher Engineer living in senegal .
+I am an NLP Research Engineer with strong interest in speech processing .
 
-I'm interessed in low resources and more particulary about Multilingual Automatic Speech Recognition low resources for African languages  
 
-In this reposiory i implement several state-of-the-art AI algorithms, adapted to the Wolof language .
 
-I'm mostly working with PyTorch , Tensorflow . For IDEs, I work with Visual Studio Code and Google Colab , Kaggle Notebook.
- 
- 
- 
 ### Connect with me:
 
  
